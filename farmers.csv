@@ -1,0 +1,5 @@
+farmer_id,name,location,soil_type,avg_rainfall_mm,budget_usd
+1,Ram,VillageA,loamy,800,300
+2,Sita,VillageB,clay,400,150
+3,Anil,VillageC,sandy,200,80
+4,Gita,VillageD,loamy,1200,500

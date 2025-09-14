@@ -1,0 +1,6 @@
+crop,region,avg_price_per_kg_usd,peak_month
+rice,Region1,0.40,October
+wheat,Region1,0.30,March
+maize,Region2,0.20,June
+millet,Region3,0.50,September
+vegetables,Region1,0.70,YearRound
